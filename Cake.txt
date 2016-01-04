@@ -1,3 +1,8 @@
 This is how to make a yummy cake.
 Here is line 2
+<<<<<<< HEAD
 Legal Ingredients
+=======
+Add some chilli powder - HEAT!!
+one other quick change
+>>>>>>> chilli-hot
