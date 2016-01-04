@@ -1,1 +1,2 @@
-This is how to make a yummy cake
+This is how to make a yummy cake.
+Here is line 2
